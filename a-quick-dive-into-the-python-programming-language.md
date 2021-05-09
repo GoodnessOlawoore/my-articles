@@ -111,9 +111,9 @@ py --version
  *As you can see, I am running on the latest version of Python (Python 3.9).*
 
  - Now that you have confirmed that python is successfully installed on your machine, I know that you are eager to write your first Python code. This can be done in three different ways: 
- > - Open Visual Studio Code 
- > - Switch to a python interactive environment by typing ```python``` in your command prompt interface. 
- > - Close the command prompt and open the built-in Interactive Development and Learning Environment (IDLE), that was installed with python by default. 
+  1. Open Visual Studio Code 
+  2.  Switch to a python interactive environment by typing ```python``` in your command prompt interface. 
+  3.  Close the command prompt and open the built-in Interactive Development and Learning Environment (IDLE), that was installed with python by default. 
 
  Let’s go with the 3rd option.
 
@@ -139,7 +139,7 @@ help()
 ```
 #### Desired result:
  ![Help](https://res.cloudinary.com/dclfepekx/image/upload/v1619550246/8._help_xaqqfe.png) 
-You will see a couple of instructions like the one above. You can follow on if you wish. 
+ > You will see a couple of instructions like the one above. You can follow on if you wish. 
 
 ### 3. RUN YOUR FIRST PYTHON PROGRAM - 
  > You are about to write your first ever python code, fasten your seatbelt. 
