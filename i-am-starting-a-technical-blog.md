@@ -3,7 +3,7 @@
 
 I have always wanted to write technical articles and blog posts, but every single time, I have also asked myself if I can really handle the stress/work that comes with putting long words together.
 
-Well, I finally got the inspiration to start writing when  [Chioma](https://hashnode.com/@mbaoma) shared a blog post where [Ifihan ](https://hashnode.com/@Ifihan)  wrote about the differences and similarities between Lists and Tuples in python. 
+Well, I finally got the inspiration to start writing when  [Chioma](https://www.linkedin.com/in/mbaoma-chioma-mary) shared a blog post where [Ifihan ](https://www.linkedin.com/in/ifihan-olusheye)  wrote about the differences and similarities between Lists and Tuples in python. 
 
 I jokingly replied *“Lemme carry my pen and write about sets vs dictionaries”*, I had expected her to send a “lol” response or a laughing emoji in return but nah, she replied “oya”, meaning, do it! Then it dawned on me that I just got trapped in my own net😂. 
 
